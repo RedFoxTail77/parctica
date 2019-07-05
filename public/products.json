@@ -1,0 +1,57 @@
+[
+    {
+      "id": 0,
+      "title": " TОВАР 1",
+      "producer": "ЯПОНИЯ",
+      "image":
+        "https://cv7.litres.ru/sbc/33231270_cover_185-elektronnaya-kniga-den-braun-proishozhdenie-27624091.jpg",
+      "price": 710,
+      "rating": 3
+    },
+    {
+      "id": 1,
+      "title": "TОВАР 2",
+      "producer": "Китай",
+      "image":
+        "https://cv0.litres.ru/sbc/09233908_cover_185-elektronnaya-kniga--.jpg",
+      "price": 415,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "Товар 3",
+      "producer": "Беларусь",
+      "image":
+        "https://cv2.litres.ru/sbc/31635724_cover_185-elektronnaya-kniga-donato-karrizi-devushka-v-tumane.jpg",
+      "price": 464,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "Товар 4",
+      "producer": "Россия",
+      "image":
+        "https://cv0.litres.ru/sbc/30804904_cover_185-elektronnaya-kniga-mihail-zygar-imperiya-dolzhna-umeret.jpg",
+      "price": 741,
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "title": "Товар 5",
+      "producer": "Австралия",
+      "image":
+        "https://cv9.litres.ru/sbc/30087292_cover_185-elektronnaya-kniga-tatyana-ustinova-zemnoe-prityazhenie.jpg",
+      "price": 317,
+      "rating": 1
+    },
+    {
+        "id": 5,
+        "title":
+          "Товар 6",
+        "producer": "Канада",
+        "image":
+          "https://cv1.litres.ru/sbc/14195715_cover_185-elektronnaya-kniga-dzhonatan-henkok-kak-trenirovat-pamyat-ne-dumayte-o-pamyati-luchshe-ispolzuyte-ee-na-vse-sto.jpg",
+        "price": 399,
+        "rating": 5
+      }
+    ]
